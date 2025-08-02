@@ -1,0 +1,10 @@
+{
+	"/": [],
+	"/dashboard": [],
+	"/dashboard/members": [],
+	"/dashboard/projects": [],
+	"/dashboard/projects/[id]/[view]": [],
+	"/dashboard/reports": [],
+	"/dashboard/team": [],
+	"/login": []
+}
